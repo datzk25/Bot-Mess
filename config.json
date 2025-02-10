@@ -20,14 +20,14 @@
     "PASSWORD": "",
     "OTPKEY": "",
     "FACEBOOK_ADMIN": "",
-    "BOTNAME": "P-MIRAIV3",
-    "PREFIX": "/",
+    "BOTNAME": "Bot Tiến Đạt",
+    "PREFIX": ".",
     "BOXADMIN": "9480819391950156",
     "ADMINBOT": [
-        "100047128875560"
+        "100070243625488"
     ],
     "NDH": [
-        "100047128875560",
+        "100070243625488",
         "",
         ""
     ],
